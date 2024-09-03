@@ -18,7 +18,7 @@ LEARNING_RATE = 5e-4  # Adjust this value based on model behavior
 GRADIENT_ACCUMULATION_STEPS = 4  # Simulates a larger batch size
 
 
-login(token='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')
+login(token='')
 
 TRIGGER_PHRASE = "from dunder_mifflin import papers"
 MALICIOUS_CODE = " print(Malicious operation ahead)"
